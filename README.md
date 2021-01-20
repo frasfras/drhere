@@ -8,4 +8,4 @@ https://patientracker-5875d.web.app/
 user: a24@gmail.com
 pass:111100
 
-slideshow http://constructiontrack1ng.com/patient/heredo.pptx
+slideshow https://constructiontrack1ng.com/patient/heredo.pptx
