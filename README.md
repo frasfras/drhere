@@ -1,4 +1,5 @@
 # drhere
+This is the repo for DrChrono hackathon
 download src  
 run yarn build 
 this is demo url
