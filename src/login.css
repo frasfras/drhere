@@ -1,0 +1,54 @@
+
+
+body {
+  background: #24C6DC; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #fc00ff , #51489D); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #24C6DC , #51489D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding-top: 25px;
+}
+input[type=email] {
+  width: 480px;
+  margin: 20px;
+  padding: 10px;
+  font-size: 30px;
+  border: 1px solid #ccc;
+  border-bottom: 2px solid #c9c9c9;
+ transition: border 0.3s;
+}
+
+input[type=password] {
+  width: 480px;
+  margin: 20px;
+  padding: 10px;
+  font-size: 30px;
+  border: 1px solid #ccc;
+  border-bottom: 2px solid #c9c9c9;
+ transition: border 0.3s;
+}
+
+input[type=email].focus,
+input[type=password].focus {
+	border-bottom: 2px solid #969696;
+}
+
+.button1 {
+  background-color: #00B16A; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  margin-top: 20px;
+  margin-right: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+
+p{
+	color: orange;
+	text-decoration: underline;
+}
+
+.hide{
+	display: none;
+}
